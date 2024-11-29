@@ -1,2 +1,1 @@
-# Heatmap code
-# You can replace the data part in the code with your own data
+# This is a reproducible script dataset including KEGG and GO analysis
