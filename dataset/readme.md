@@ -1,2 +1,2 @@
-# Heatmap dataset
-# You can replace the dataset with your own
+# Heatmap code
+# You can replace the data part in the code with your own data
